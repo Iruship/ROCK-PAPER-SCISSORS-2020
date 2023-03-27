@@ -1,0 +1,13 @@
+def RulesOfTheGame():
+    print("                                                          Hello!                                                                            ")
+    print("                              These are the rules and the regulations of the game! MAKE SURE YOU FOLLOW THEM!!                              ")
+    print("                                 You should enter your choice as 'Rock','Paper','Scissors'                                                  ")
+    print("                            Please type the first letter of your choice in capital                                                          ")
+    print("  The wins by the computer, the total wins by you, total number of draws and the total number of games played will be displayed at the end  ")
+    print("                                         Always remember,That Scissors wins Over Paper                                                      ")
+    print("                                                  Paper wins over Rock                                                                      ")
+    print("                                                  rock  wins over scissors                                                                  ")                                                                                    
+    print("                                             If the game is a tie You will have to play again                                               ")                                                                 
+    print("                                  You will have the opportunity to exit the game at anytime you want!!                                      ")
+    print("                                                     let's get started!!                                                                    ")
+    print("                                                 Good Luck!!!! Have Fun!!!                                                                  ")
